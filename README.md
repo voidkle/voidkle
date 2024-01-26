@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm "Ruthkle"</h1>
 <h3 align="center">some random developer</h3>
 
-- 🌱 I’m currently learning **Game developing in C++,C#**
+- 🌱 I’m currently learning **Game development in C++ and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
