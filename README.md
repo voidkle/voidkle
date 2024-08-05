@@ -30,15 +30,15 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
 ### Technologies & Frameworks
-[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)](https://vuejs.org)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/voidkle)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/voidkle)
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/voidkle)
-[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/voidkle)
+[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://laravel.com/)
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/voidkle)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/voidkle)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://www.microsoft.com/en-us/windows)
 
 <details>
 <p align="center">
