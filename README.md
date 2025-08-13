@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/xyz123abcAAA.gif](https://github.com/voidkle/voidkle/blob/main/honkai-star-rail.gif?raw=true" alt="Honkai Star Rail GIF">
+  <img src="https://github.com/voidkle/voidkle/blob/main/honkai-star-rail.gif?raw=true" alt="Honkai Star Rail GIF">
 </p>
 
 
