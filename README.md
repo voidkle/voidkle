@@ -7,7 +7,10 @@
     </i><br>
 </p>
 
-![Honkai Star Rail](https://media.tenor.com/xyz123abcAAA.gif)
+<p align="center">
+  <img src="https://media.tenor.com/xyz123abcAAA.gif" alt="Honkai Star Rail GIF">
+</p>
+
 
 <div align="center">
 <a href="https://tiktok.com/@ruthkle" target="_blank">
