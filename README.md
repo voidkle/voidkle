@@ -5,6 +5,7 @@
     <i>
         I'm ruthkle (internet name), and I'm currently learning C and C++.<br>
     </i><br>
+    <div class="tenor-gif-embed" data-postid="1625700302891578404" data-share-method="host" data-aspect-ratio="1.91538" data-width="100%"><a href="https://tenor.com/view/honkai-star-rail-honkai-star-rail-firefly-sam-gif-1625700302891578404">Honkai Star Rail GIF</a>from <a href="https://tenor.com/search/honkai-gifs">Honkai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <div align="center">
