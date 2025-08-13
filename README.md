@@ -44,8 +44,8 @@
 
 ### OS
 [![Arch Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://archlinux.org/)
-[![Mac Os](https://img.shields.io/badge/MAC-black?style=for-the-badge&logo=apple)](https://www.apple.com/id/macos/)]
-[![Arch Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://archlinux.org/)
+[![Mac Os](https://img.shields.io/badge/apple-black?style=for-the-badge&logo=apple)](https://www.apple.com/id/macos/)]
+[![Arch Linux](https://img.shields.io/badge/arch%20linux-black?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://www.microsoft.com/en-us/windows)
 
