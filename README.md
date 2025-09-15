@@ -5,6 +5,7 @@
     <i>
         I'm ruthkle (internet name), and I'm currently learning C and C++.<br>
     </i><br>
+    <b>i use arch btw.</b>
 </p>
 
 <p align="center">
