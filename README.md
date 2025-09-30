@@ -27,7 +27,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Typescript & Javascript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+[![Typescript & Javascript](https://img.shields.io/badge/type&javascript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://www.php.net)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://dart.dev/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
@@ -38,10 +38,10 @@
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 ### OS
-[![Debian](https://img.shields.io/badge/Debian%20based%20linux%20(ubuntu/mint/etc)-black?style=for-the-badge&logo=debian)](https://debian.org/)
+[![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)](https://debian.org/)
 [![Mac Os](https://img.shields.io/badge/mac%20os-black?style=for-the-badge&logo=apple)](https://www.apple.com/id/macos/)
+[![Nix](https://img.shields.io/badge/nix-black?style=for-the-badge&logo=nixos)](https://www.apple.com/id/macos/)
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-black?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://www.microsoft.com/en-us/windows)
 
 <details>
