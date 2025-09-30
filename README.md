@@ -27,7 +27,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Typescript & Javascript](https://img.shields.io/badge/type&javascript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+[![Typescript & Javascript](https://img.shields.io/badge/typescript%20&%20Javascript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://www.php.net)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://dart.dev/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
