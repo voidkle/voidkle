@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/voidkle/voidkle/blob/main/honkai-star-rail.gif?raw=true" alt="Honkai Star Rail GIF">
+  <img src="https://raw.githubusercontent.com/voidkle/voidkle/refs/heads/main/stelle-star-rail-waving-waving-hsr.gif" alt="Honkai Star Rail GIF">
 </p>
 
 
